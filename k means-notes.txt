@@ -1,0 +1,9 @@
+
+
+http://minerandodados.com.br/index.php/2018/02/02/algoritmo-k-means-python-passo-passo/
+
+http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+http://scikit-learn.org/stable/about.html#citing-scikit-learn
+
+http://scikit-learn.org/stable/auto_examples/text/document_clustering.html#sphx-glr-auto-examples-text-document-clustering-py
