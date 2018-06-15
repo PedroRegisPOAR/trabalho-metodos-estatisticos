@@ -7,3 +7,21 @@ http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 http://scikit-learn.org/stable/about.html#citing-scikit-learn
 
 http://scikit-learn.org/stable/auto_examples/text/document_clustering.html#sphx-glr-auto-examples-text-document-clustering-py
+
+
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html
+
+https://en.wikipedia.org/wiki/Rand_index
+
+https://stackoverflow.com/questions/40262038/adjusted-rand-index-ari
+
+
+pip quebrado:
+https://github.com/pypa/pip/issues/5221#issuecomment-382069604
+
+
+docker run -it --rm -v "$(pwd)":/notebooks -p 8888:8888 pep
+
+
+
+wget https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
